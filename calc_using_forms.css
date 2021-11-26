@@ -1,0 +1,21 @@
+
+#clear{
+	   width: 130px;
+	        
+}
+.container{
+    width:170px;
+    height: 380px;
+    margin: auto;
+    margin-top: 20px;
+    border: 2px solid black;
+    padding-top: 10px;
+}
+input{
+    width: 40px;
+    background-color: #90a3a6;
+    
+}
+#answer_style{
+    width: 130px;
+}
